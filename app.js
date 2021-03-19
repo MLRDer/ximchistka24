@@ -62,6 +62,6 @@ app.get("/*", function (req, res) {
 });
 
 // listen
-app.listen(4000, () => {
+app.listen(3000, () => {
     console.log("Port listening...");
 });
